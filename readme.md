@@ -1,8 +1,8 @@
 # Gilded Rose Requirements Specification
 
-## What we need?
+## It's all ready :)
 
-- Refactor the terrible code: `app/gilded-rose.ts`
+after cloning the code and installing the dependencies. run the test routine with "npm run test" all the highlighted points will be checked.
 
 ## Rules and new requirement
 
